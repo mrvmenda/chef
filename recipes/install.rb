@@ -17,3 +17,6 @@ end
 package 'git' do
 	action :install
 end
+package 'mapr-nodemanager' do 
+	action :install
+end

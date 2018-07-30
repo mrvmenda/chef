@@ -20,3 +20,6 @@ end
 package 'mapr-nodemanager' do 
 	action :install
 end
+package 'ohai' do 
+	action :install
+end
